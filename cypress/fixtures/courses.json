@@ -1,0 +1,144 @@
+{
+  "payload": [
+    {
+      "id": 1,
+      "titles": {
+        "description": "Serverless Angular mit Firebase Kurs",
+        "longDescription": "Serveless Angular mit Firestore, Firebase Storage & Hosting, Firebase Cloud Functions & AngularFire"
+      },
+      "iconUrl": "/assets/imgs/img5.jpg",
+      "lessonsCount": 10,
+      "category": "BEGINNER",
+      "seqNo": 4,
+      "url": "serverless-angular"
+    },
+    {
+      "id": 2,
+      "titles": {
+        "description": "Angular Core Deep Dive",
+        "longDescription": "Eine detaillierte Eionführung der wichtigsten Bestandteile von Angular - die Core und Common Module"
+      },
+      "iconUrl": "/assets/imgs/img2.jpg",
+      "lessonsCount": 10,
+      "category": "BEGINNER",
+      "seqNo": 1,
+      "url": "angular-core-course"
+    },
+    {
+      "id": 3,
+      "titles": {
+        "description": "RxJs Praxiskurs",
+        "longDescription": "Verstehen von RxJs Observable Mustern und anwenden von RxJs Operatoren mithilfe praktischer Beispiele"
+      },
+      "iconUrl": "/assets/imgs/img3.jpg",
+      "category": "BEGINNER",
+      "lessonsCount": 10,
+      "seqNo": 2,
+      "url": "rxjs-course"
+    },
+    {
+      "id": 4,
+      "titles": {
+        "description": "NgRx In Depth",
+        "longDescription": "Lernen des modernen NgRx Ökosystems inklusive Store, Effects, Router Store, Ngrx Entity, Dev Tools und Schematics."
+      },
+      "iconUrl": "/assets/imgs/img4.jpg",
+      "category": "BEGINNER",
+      "lessonsCount": 10,
+      "seqNo": 3,
+      "url": "ngrx-course"
+    },
+    {
+      "id": 5,
+      "titles": {
+        "description": "Angular für Beginner",
+        "longDescription": "Etablieren eines fundierten Basiswissens bezüglich Angular und investigieren der Angular Mechaniken"
+      },
+      "iconUrl": "/assets/imgs/img6.jpg",
+      "category": "BEGINNER",
+      "lessonsCount": 10,
+      "seqNo": 5,
+      "url": "angular-for-beginners"
+    },
+    {
+      "id": 6,
+      "titles": {
+        "description": "Angular Security Kurs - Web Security Grundsätze",
+        "longDescription": "Lerne Web Security Grundsätze und wende diese an, um  Angular / Node Applikationen vor verschiedensten Attacken zu schützen."
+      },
+      "iconUrl": "/assets/imgs/img7.jpg",
+      "category": "ADVANCED",
+      "lessonsCount": 11,
+      "seqNo": 6,
+      "url": "angular-security-course"
+    },
+    {
+      "id": 7,
+      "titles": {
+        "description": "Angular PWA - Progressive Web Apps Kurs",
+        "longDescription": "Lerne Angular Progressive Web Applikationen und baue die Zukunft des World Wide Web."
+      },
+      "iconUrl": "/assets/imgs/img8.jpg",
+      "category": "ADVANCED",
+      "lessonsCount": 8,
+      "seqNo": 7,
+      "url": "angular-pwa-course"
+    },
+    {
+      "id": 8,
+      "titles": {
+        "description": "Angular Advanced Library Laboratory: Baue deine eigene Angular Bibliothek",
+        "longDescription": "Lerne erweiterte Angular Funktionen, welche typischerweise in Library Entwicklung angewandt werden. Advanced Components, Directives, Testing, Npm"
+      },
+      "iconUrl": "/assets/imgs/img9.jpg",
+      "category": "ADVANCED",
+      "seqNo": 8,
+      "url": "angular-advanced-course"
+    },
+    {
+      "id": 9,
+      "titles": {
+        "description": "Der komplette Typescript Kurs",
+        "longDescription": "Typescript von Grund auf: Lerne die Sprache ganz detailliert und verwende sie z.B. für die Programmierung von Node REST APIs."
+      },
+      "iconUrl": "/assets/imgs/img10.jpgg",
+      "category": "BEGINNER",
+      "seqNo": 9,
+      "url": "typescript-course"
+    },
+    {
+      "id": 10,
+      "titles": {
+        "description": "Rxjs und Reactive Patterns Angular Architecture Kurs",
+        "longDescription": "Lerne die Kern-Entwurfsmuster von RxJs Observables und viele andere Design-Patterns zur Erstellung von Reactive Angular Applikationen."
+      },
+      "iconUrl": "/assets/imgs/img11.jpg",
+      "category": "BEGINNER",
+      "seqNo": 10,
+      "url": "rxjs-patterns-course"
+    },
+    {
+      "id": 11,
+      "titles": {
+        "description": "Angular Material Kurs",
+        "longDescription": Baue Applikationen mit der offiziellen Angular Widget Library"
+      },
+      "iconUrl": "/assets/imgs/img12.jpg",
+      "category": "BEGINNER",
+      "seqNo": 11,
+      "url": "angular-material-course"
+    },
+    {
+      "id": 12,
+      "titles": {
+        "description": "Angular Jasmine Kurs",
+        "longDescription": "Kompaktkurs mit Unit Testing und E2E Testing von Angular Applikationen"
+      },
+      "iconUrl": "/assets/imgs/img1.jpg",
+      "category": "BEGINNER",
+      "seqNo": 0,
+      "url": "angular-testing-course",
+      "lessonsCount": 10
+    }
+  ]
+}
