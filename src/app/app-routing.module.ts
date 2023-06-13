@@ -1,15 +1,19 @@
 import {NgModule} from '@angular/core';
 import {RouterModule, Routes} from '@angular/router';
-import {HomeComponent} from "./courses/home/home.component";
 import {AboutComponent} from "./about/about.component";
 import {CourseComponent} from "./courses/course/course.component";
 import {courseResolver} from "./courses/services/course.resolver";
+import {HomeComponent} from './courses/home/home.component';
 
-const routes: Routes = [
+export const routes: Routes = [
   {
     path: "",
+    redirectTo: "home",
+    pathMatch: "full"
+  },
+  {
+    path: "home",
     component: HomeComponent
-
   },
   {
     path: "about",
